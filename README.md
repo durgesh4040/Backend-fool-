@@ -39,6 +39,13 @@ Before setting up the project, ensure you have the following software installed:
      cd repository
      ```
    - Replace `repository` with the name of your project directory.
+  
+
+
+  ## Video Link
+
+You can watch the video here: [Video Title](https://youtu.be/escwu_KT_Zs)
+
 
 
 
