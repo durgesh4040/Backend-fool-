@@ -1,0 +1,44 @@
+2024-08-22 19:49:29,392 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-22 19:50:17,755 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Ecommerce:Ecommerce-Backend:0.0.1-SNAPSHOT @ C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\pom.xml.
+2024-08-22 19:50:18,618 [Worker-8: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-08-22 19:50:19,714 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ecommerce-Backend/src/main/java
+2024-08-22 19:50:19,715 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ecommerce-Backend/src/main/resources
+2024-08-22 19:50:19,720 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ecommerce-Backend/src/main/resources
+2024-08-22 19:50:19,724 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ecommerce-Backend/src/test/java
+2024-08-22 19:50:19,726 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ecommerce-Backend/src/test/resources
+2024-08-22 19:50:20,749 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2024-08-22 19:50:24,938 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-22 19:50:24,994 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-22 19:50:25,024 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-23 23:12:03,890 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-23 23:15:16,627 [Worker-27: Launching Ecommerce-Backend - EcommerceBackendApplication] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-08-24 00:12:43,714 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:12:43,770 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:12:43,781 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:12:58,797 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:12:58,820 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:12:58,828 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:16:50,556 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:16:50,599 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:16:50,605 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:17:24,438 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:17:24,456 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:17:24,462 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:17:35,869 [Worker-48: Launching Ecommerce-Backend - EcommerceBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:17:35,879 [Worker-48: Launching Ecommerce-Backend - EcommerceBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:17:35,887 [Worker-48: Launching Ecommerce-Backend - EcommerceBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:17:52,273 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:17:52,282 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:17:52,290 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:21:47,359 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:21:47,363 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:21:47,366 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:22:45,972 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:22:45,976 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:22:45,979 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:26:15,667 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:26:15,671 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:26:15,674 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
+2024-08-24 00:42:19,102 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-24 00:42:19,123 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-08-24 00:42:19,127 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Durgesh\Desktop\Intershala\Backend-fool\Backend-fool-\Ecommerce-Backend\src\test\resources
